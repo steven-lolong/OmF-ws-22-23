@@ -27,3 +27,5 @@ end ImMixString
 def combine[A](x: A, y:A) (implicit mix: MixItUp[A]) : A = mix.mixIt(x,y)
 
 println(combine(3,4))
+
+// Have a nice Semester Holyday see you in 2023
