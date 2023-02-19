@@ -1,6 +1,5 @@
 # Object Meets Function 
 ### Winter Semester 22/23
-===
 
 ## Project Presentation
 Book your time for project presentation via this link: 
